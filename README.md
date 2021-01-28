@@ -14,8 +14,8 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=react)
-  ![React Native](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=reactnative)
+  ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+  ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
   ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
