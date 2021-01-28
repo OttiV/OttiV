@@ -20,8 +20,8 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
   ![React Router](https://img.shields.io/badge/-ReactRouter-black?style=flat-square&logo=reactrouter)
   <br>
-  ![Vue_JS](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue)
-  ![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vuex)
+  ![Vue JS](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue)
+  ![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vue)
   ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 <br>
   ![SASS](https://img.shields.io/badge/-Sass-563D7C?style=flat-square&logo=sass)
