@@ -13,9 +13,13 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
 ## Languages and Tools:
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  <br>
   ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
   ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+  <br>
+  ![Vue_JS](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
+  ![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vuex)
   ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
