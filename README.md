@@ -5,9 +5,10 @@
 
 
 I am a Web Developer who loves TypeScript, React but most of all learning new skills!
+<br>
 🌱 I’m currently learning ... 
   
-  ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+  ![C](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
 
 
 ## Languages and Tools:
