@@ -7,13 +7,14 @@
 I am a Web Developer who loves TypeScript, React but most of all learning new skills!
 🌱 I’m currently learning ... 
   
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+  ![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
 
 ## Languages and Tools:
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=react)
   ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=reactnative)
   ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 <br>
