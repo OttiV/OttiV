@@ -18,7 +18,7 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
   ![React JS](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
   ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-  ![React Router](https://img.shields.io/badge/-ReactRouter-black?style=flat-square&logo=reactrouter)
+  ![React Router](https://img.shields.io/badge/-ReactRouter-black?style=flat-square&logo=react-router)
   <br>
   ![Vue JS](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue)
   ![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vue)
