@@ -16,11 +16,11 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   <br>
   ![React JS](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
-  ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react-native)
+  ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
   ![React Router](https://img.shields.io/badge/-ReactRouter-black?style=flat-square&logo=react-router)
   <br>
-  ![Vue JS](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue-js)
+  ![Vue JS](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue-js)
   ![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vue)
   ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 <br>
