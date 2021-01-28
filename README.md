@@ -8,7 +8,7 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
 <br>
 🌱 I’m currently learning ... 
   
-  ![C](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+  ![C](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=flat-square)
 
 
 ## Languages and Tools:
@@ -20,7 +20,7 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
   ![React Router](https://img.shields.io/badge/-ReactRouter-black?style=flat-square&logo=reactrouter)
   <br>
-  ![Vue_JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue)
+  ![Vue_JS](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue)
   ![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vuex)
   ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 <br>
