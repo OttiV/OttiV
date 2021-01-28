@@ -24,7 +24,7 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
   ![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vuex)
   ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 <br>
-  ![SASS](https://img.shields.io/badge/-sass-563D7C?style=flat-square&logo=sass)
+  ![SASS](https://img.shields.io/badge/-Sass-563D7C?style=flat-square&logo=sass)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 <br>
