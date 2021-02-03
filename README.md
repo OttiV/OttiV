@@ -7,7 +7,7 @@
 I am a Web Developer who loves TypeScript, React but most of all learning new skills!
 <br>
 
-## Working experience with:
+## I have working experience with:
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org/docs/)
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://devdocs.io/javascript/)
   <br>
@@ -26,7 +26,7 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)   
 
-## Extra Languages and Tools:
+## Extra Languages and Tools I know:
   [![Vue JS](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vuejs)](https://vuejs.org/v2/guide/)
   [![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vue)](https://vuex.vuejs.org/)
   
@@ -38,9 +38,7 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
 <img src="https://github-readme-stats.vercel.app/api?username=vgnttv&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgnttv&layout=compact&theme=vue&hide_title=true&hide_border=true" >
 
 <!--
-How to make your own Profile README:
-
-A new feature arrived on GitHub! You can finally add a README to your GitHub profile.
+How to add a README to your GitHub profile.:
 
 This is how it works:
 
@@ -49,5 +47,4 @@ Create a README.md file inside the repo
 Add content, e.g. a banner, links and an introduction text, and commit the file
 git push your changes.
 That's it. 🚀
-
 -->
