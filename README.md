@@ -8,7 +8,7 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
 <br>
 🌱 I’m currently learning ... 
   
-  ![C](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=flat-square) 
+  ![C](https://img.shields.io/badge/-black?logo=c%2B%2B&style=flat-square) 
   ![CS50](https://img.shields.io/badge/-CS50-black?logo=cs50&style=flat-square) 
 
 
