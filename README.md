@@ -8,9 +8,10 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
 <br>
 🌱 I’m currently learning ... 
   
-  ![C](https://img.shields.io/badge/-black?logo=c%2B%2B&style=flat-square) 
+  ![C](https://img.shields.io/badge/-black?logo=c%2B%2B&style=flat-square) through [CS50](https://cs50.harvard.edu/college/2021/spring/)
+  <!--
   ![CS50](https://img.shields.io/badge/-CS50-black?logo=cs50&style=flat-square) 
-
+--!>
 
 ## Languages and Tools:
   [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org/docs/)
