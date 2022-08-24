@@ -29,13 +29,18 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
 ## Extra Languages and Tools I know:
   [![Vue JS](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vuejs)](https://vuejs.org/v2/guide/)
   [![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vue)](https://vuex.vuejs.org/)
+  [![C](https://img.shields.io/badge/-black?logo=c%2B%2B&style=flat-square)](https://devdocs.io/c/)
+  [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+
+
   
   🌱 I’m currently learning ... 
   
-  ![C](https://img.shields.io/badge/-black?logo=c%2B%2B&style=flat-square) through [CS50](https://cs50.harvard.edu/college/2021/spring/)
+  [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://docs.soliditylang.org/en/v0.8.16/)
+  [![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)](https://web3js.readthedocs.io/en/v1.7.5/)
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vgnttv&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgnttv&layout=compact&theme=vue&hide_title=true&hide_border=true" >
+<img src="https://github-readme-stats.vercel.app/api?username=vgnttv&theme=dark&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgnttv&layout=compact&theme=dark&hide_title=true&hide_border=true&langs_count=10" >
 
 <!--
 How to add a README to your GitHub profile.:
