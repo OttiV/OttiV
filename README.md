@@ -40,7 +40,7 @@ I am a Web Developer who loves TypeScript, React but most of all learning new sk
   [![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)](https://web3js.readthedocs.io/en/v1.7.5/)
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vgnttv&theme=dark&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgnttv&layout=compact&theme=dark&hide_title=true&hide_border=true&langs_count=10" >
+<img src="https://github-readme-stats.vercel.app/api?username=ottiv&theme=dark&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottiv&layout=compact&theme=dark&hide_title=true&hide_border=true&langs_count=10" >
 
 <!--
 How to add a README to your GitHub profile.:
